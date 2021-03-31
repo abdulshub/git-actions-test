@@ -2,7 +2,7 @@
 
 name: Shell Commands
 
-on: [push, pull]
+on: [push]
 
 
 jobs:
